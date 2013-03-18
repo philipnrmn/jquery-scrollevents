@@ -1,0 +1,26 @@
+{
+    "name": "scrollevents",
+    "version": "0.1.0",
+    "title": "Scroll Events",
+    "description": "Fires an event when an element scrolls into or out of view",
+    "keywords": ["scroll"],
+    "author": {
+        "name": "Philip Norman",
+        "url": "http://github.com/philipnrmn"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        },
+        {
+            "type": "GPLv3",
+            "url": "http://opensource.org/licenses/GPL-3.0"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.2",
+        "jquery-throttle-debounce": ">=1.1"
+    },
+    "homepage": "https://github.com/philipnrmn/jquery-scrollevents"
+}
