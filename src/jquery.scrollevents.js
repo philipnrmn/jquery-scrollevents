@@ -2,7 +2,7 @@
 /*global jQuery */
 
 /**
- * @license jQuery Scroll Events v0.1.0
+ * @license jQuery Scroll Events v0.1.1
  * http://github.com/philipnrmn/jquery-scrollevents
  * 
  * Copyright (c) 2013 Philip Norman
