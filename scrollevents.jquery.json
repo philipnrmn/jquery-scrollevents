@@ -1,6 +1,6 @@
 {
     "name": "scrollevents",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "title": "Scroll Events",
     "description": "Fires an event when an element scrolls into or out of view",
     "keywords": ["scroll"],
